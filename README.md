@@ -38,7 +38,7 @@ This Prolog file contains:
 
 ## How to Run the Program  
 
-### Option 1 — **Using SWISH (Recommended)**  
+
 1. Go to: https://swish.swi-prolog.org  
 2. Copy the contents of `family_tree.pl` into a new program window  
 3. Run queries in the bottom panel, such as:  
